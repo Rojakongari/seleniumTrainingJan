@@ -1,0 +1,99 @@
+2023-01-31 16:46:24.952 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-31 16:46:26.229 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-31 16:46:27.280 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-31 16:46:27.309 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-31 16:46:29.838 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-31 16:46:29.839 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-31 16:46:52.842 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+2023-01-31 16:46:53.140 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+2023-01-31 16:46:59.007 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+2023-01-31 16:46:59.011 [main] INFO  testCases.TC_002_LoginTest - providing login details
+2023-01-31 16:54:03.430 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+2023-01-31 16:54:04.055 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+2023-01-31 16:54:04.963 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+2023-01-31 16:54:04.969 [main] INFO  testCases.TC_002_LoginTest - providing login details
+2023-01-31 16:54:06.027 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+2023-01-31 16:56:48.801 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+2023-01-31 16:56:49.351 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+2023-01-31 16:56:50.554 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+2023-01-31 16:56:50.557 [main] INFO  testCases.TC_002_LoginTest - providing login details
+2023-01-31 16:56:51.707 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+2023-01-31 16:59:05.192 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+2023-01-31 16:59:05.648 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+2023-01-31 16:59:06.256 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+2023-01-31 16:59:06.258 [main] INFO  testCases.TC_002_LoginTest - providing login details
+2023-01-31 16:59:06.967 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+2023-01-31 16:59:06.968 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+2023-01-31 18:29:41.090 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 18:29:53.841 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 18:29:55.297 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 18:30:07.127 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 18:30:07.131 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 18:30:19.170 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 18:30:19.173 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 18:30:30.763 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 18:30:30.765 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 18:43:14.343 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 18:43:26.765 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 18:43:26.799 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 18:43:39.189 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 18:43:39.206 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 18:43:51.036 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 18:43:51.040 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 18:44:06.856 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 18:44:06.859 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 19:13:55.712 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-31 19:13:56.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-31 19:13:57.450 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-31 19:13:57.455 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-31 19:13:59.319 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+2023-01-31 19:14:12.088 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+2023-01-31 19:14:13.007 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+2023-01-31 19:14:13.997 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+2023-01-31 19:14:14.001 [main] INFO  testCases.TC_002_LoginTest - providing login details
+2023-01-31 19:14:15.192 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+2023-01-31 19:14:15.193 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+2023-01-31 19:18:23.918 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+2023-01-31 19:18:24.405 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+2023-01-31 19:18:25.290 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+2023-01-31 19:18:25.293 [main] INFO  testCases.TC_002_LoginTest - providing login details
+2023-01-31 19:18:26.323 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+2023-01-31 19:18:26.323 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+2023-01-31 19:27:46.746 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 19:27:59.232 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 19:27:59.314 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 19:28:11.625 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 19:28:11.637 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 19:28:23.766 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 19:28:23.770 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 19:28:35.429 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+2023-01-31 19:28:35.437 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+2023-01-31 19:31:14.469 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-31 19:31:15.619 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-31 19:31:16.680 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-31 19:31:16.686 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-31 19:31:18.689 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-31 19:31:18.689 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-31 19:31:26.295 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+2023-01-31 19:31:26.665 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+2023-01-31 19:31:27.713 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+2023-01-31 19:31:27.719 [main] INFO  testCases.TC_002_LoginTest - providing login details
+2023-01-31 19:31:28.512 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+2023-01-31 19:31:28.513 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+2023-01-31 19:33:18.471 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-31 19:33:18.864 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-31 19:33:20.307 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-31 19:33:20.316 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-31 19:33:22.288 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+2023-01-31 19:33:31.793 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+2023-01-31 19:33:32.069 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+2023-01-31 19:33:32.692 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+2023-01-31 19:33:32.696 [main] INFO  testCases.TC_002_LoginTest - providing login details
+2023-01-31 19:33:33.522 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+2023-01-31 19:33:33.522 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+2023-01-31 19:37:54.936 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-31 19:37:55.706 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-31 19:37:56.586 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-31 19:37:56.595 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-31 19:37:58.528 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-31 19:37:58.528 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***

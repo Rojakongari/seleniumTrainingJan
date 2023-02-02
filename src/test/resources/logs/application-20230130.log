@@ -1,0 +1,58 @@
+2023-01-30 18:02:00.884 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 18:02:01.713 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 18:02:04.240 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 18:02:04.250 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 18:02:07.718 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-30 18:02:07.718 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-30 18:14:57.257 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 18:14:58.935 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 18:15:00.555 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 18:15:00.563 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 18:15:02.428 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-30 18:15:02.428 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-30 18:19:22.360 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 18:19:23.603 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 18:19:25.715 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 18:19:25.720 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 18:19:28.220 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-30 18:19:28.220 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-30 18:19:31.405 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 18:19:31.995 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 18:19:34.389 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 18:19:34.397 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 18:19:38.833 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-30 18:19:38.833 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-30 18:46:27.154 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 18:46:28.263 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 18:46:29.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 18:46:29.989 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 18:46:33.200 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-30 18:46:33.201 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-30 19:15:48.387 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 19:15:48.920 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 19:15:51.187 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 19:15:51.241 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 19:15:54.290 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+2023-01-30 19:19:36.714 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 19:19:37.391 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 19:19:38.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 19:19:38.260 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 19:19:41.328 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-30 19:19:41.329 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-30 19:21:18.340 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 19:21:18.833 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 19:21:19.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 19:21:19.638 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 19:21:20.900 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-30 19:21:20.900 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-30 19:22:23.565 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 19:22:24.177 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 19:22:25.074 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 19:22:25.087 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 19:22:26.893 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+2023-01-30 19:22:26.893 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+2023-01-30 19:24:14.886 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+2023-01-30 19:24:15.930 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+2023-01-30 19:24:16.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+2023-01-30 19:24:16.901 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+2023-01-30 19:24:18.576 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
